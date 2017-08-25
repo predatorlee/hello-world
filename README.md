@@ -5,7 +5,5 @@ My first repository
   
   My name is Wendy Lee and I am a new and inspiring developer... <!-- soon this line will change -->
   
-  I am 26 years old and I have 3 jobs! Yes 3!!
-  
-  
+  I am a teacher, knowledge-hungry individual and planning my business start ups!
   
